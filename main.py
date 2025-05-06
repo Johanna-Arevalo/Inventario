@@ -2,7 +2,7 @@
 inventario = {
     'manzana': 50,
     'naranjas': 30,
-    'peras': 20
+    'peras': 25
 }
 
 mostrar_inventario(inventario)
