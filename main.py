@@ -1,8 +1,13 @@
+from mostrar import mostrar_inventario
+from actualizar import actualizar_inventario
+from agregar import agregar_producto
+from eliminar import eliminar_producto
+
 # Inventario inicial
 inventario = {
     'manzana': 50,
     'naranjas': 30,
-    'peras': 25
+    'peras': 20
 }
 
 mostrar_inventario(inventario)
